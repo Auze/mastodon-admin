@@ -5,3 +5,5 @@ This repository aimed to host all of our configuration file for our Mastodon ins
 ## Contact
 
 ## Support
+
+[auze@glorious-space.eu](https://masto.glorious-space.eu/@auze)
